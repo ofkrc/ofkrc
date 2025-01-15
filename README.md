@@ -68,10 +68,10 @@ Yüksek ölçeklenebilir ve güvenilir backend sistemleri geliştirmekte uzmanla
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">EmaOtomasyon</h3>
+        <h3 align="center">nodejs-microservice-api</h3>
         <div align="center">
-          <a href="https://github.com/ofkrc/EmaOtomasyon" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="EmaOtomasyon" width="100" />
+          <a href="https://github.com/ofkrc/nodejs-microservice-api" target="_blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nodejs-microservice-api" width="100" />
           </a>
           <p>
             <a href="https://github.com/ofkrc/proje-adi-2" target="_blank">
