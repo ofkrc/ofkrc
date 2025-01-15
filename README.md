@@ -48,42 +48,7 @@ Yüksek ölçeklenebilir ve güvenilir backend sistemleri geliştirmekte uzmanla
   <img src="https://github-readme-stats.vercel.app/api?username=ofkrc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-### 🎯 Öne Çıkan Projeler
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Core Api</h3>
-        <div align="center">  
-          <a href="https://github.com/ofkrc/CoreApi" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="CoreApi" width="100" />
-          </a>
-          <p>
-            <a href="https://github.com/ofkrc/CoreApi" target="_blank">
-              <img src="https://img.shields.io/badge/Kod-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>C#, RESTful API, SQL</strong> - Başlangıç core bir api projesidir</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">nodejs-microservice-api</h3>
-        <div align="center">
-          <a href="https://github.com/ofkrc/nodejs-microservice-api" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nodejs-microservice-api" width="100" />
-          </a>
-          <p>
-            <a href="https://github.com/ofkrc/proje-adi-2" target="_blank">
-              <img src="https://img.shields.io/badge/Kod-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>C#, RESTful API, WEB</strong> - Otomasyon</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div> 
 
 ### 💼 Profesyonel Geçmiş
 
