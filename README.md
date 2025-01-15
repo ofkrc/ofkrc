@@ -51,13 +51,39 @@ Yüksek ölçeklenebilir ve güvenilir backend sistemleri geliştirmekte uzmanla
 ### 🎯 Öne Çıkan Projeler
 
 <div align="center">
-  <a href="https://github.com/ofkrc/EmaOtomasyon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofkrc&repo=EmaOtomasyon&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/ofkrc/CoreApi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofkrc&repo=CoreApi&theme=github_dark&hide_border=true" />
-  </a>
-</div>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Proje 1</h3>
+        <div align="center">  
+          <a href="https://github.com/ofkrc/CoreApi" target="_blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="CoreApi" width="100" />
+          </a>
+          <p>
+            <a href="https://github.com/ofkrc/CoreApi" target="_blank">
+              <img src="https://img.shields.io/badge/Kod-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>Java, Spring Boot, PostgreSQL</strong> - Proje açıklaması buraya gelecek</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Proje 2</h3>
+        <div align="center">
+          <a href="https://github.com/ofkrc/proje-adi-2" target="_blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Proje 2" width="100" />
+          </a>
+          <p>
+            <a href="https://github.com/ofkrc/proje-adi-2" target="_blank">
+              <img src="https://img.shields.io/badge/Kod-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>Spring Cloud, Docker, AWS</strong> - Proje açıklaması buraya gelecek</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div> 
 
 ### 💼 Profesyonel Geçmiş
 
