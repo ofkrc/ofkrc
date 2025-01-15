@@ -1,98 +1,78 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+  <h1>Ömer Faruk Kıraç</h1>
+  <h3>Senior Backend Developer</h3>
 </div>
 
-###  <div align="center">Ben Ömer Faruk KARACA, tutkulu bir Backend Developer'ım 👨‍💻 2020'den beri aktif olarak geliştirme yapıyorum 🚀</div>  
-  
-<br/>  
-
-## 💫 Hakkımda  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 Şu anda [şirket/proje adı] üzerinde çalışıyorum
-  
-- 🌱 Sürekli yeni teknolojiler öğreniyorum
-  
-- ❓ Backend teknolojileri hakkında bana soru sorabilirsiniz
-  
-- ⚡ İlginç gerçek: Kod yazmadığım zamanlarda [hobi/ilgi alanı]
-
-</td><td valign="top" width="50%">
-
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-</td></tr></table>  
-
-<br/>  
-
-## 🌟 Yeteneklerim
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+  <a href="https://www.linkedin.com/in/[linkedin-kullanıcı-adınız]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
-
-</td><td valign="top" width="33%">
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-## 📊 Github İstatistiklerim 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofkrc&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
-</div>  
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofkrc&theme=radical&hide_border=true" align="center" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofkrc&hide_border=true&layout=compact&theme=radical" align="center" />
-</div>
-<br/>
-
-## 🤝 Benimle İletişime Geçin
-<div align="center">
-<a href="https://github.com/ofkrc" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/[profiliniz]" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/[profiliniz]" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-</div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ofkrc&&style=flat-square" align="center" />
-</div>  
-
-<br />
 
 ---
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+### 👨‍💻 Profesyonel Deneyim
+
+Yüksek ölçeklenebilir ve güvenilir backend sistemleri geliştirmekte uzmanlaşmış bir yazılım mühendisiyim. Mikroservis mimarileri, dağıtık sistemler ve yüksek performanslı uygulamalar konusunda geniş deneyime sahibim.
+
+### 🛠️ Teknik Uzmanlık
+
+**Backend Geliştirme**
+- Java | Spring Boot | Spring Framework
+- RESTful API Tasarımı
+- Mikroservis Mimarisi
+
+**Veritabanları**
+- PostgreSQL
+- MongoDB
+- Redis
+
+**DevOps & Cloud**
+- Docker | Kubernetes
+- AWS Cloud Services
+- CI/CD Pipeline'ları
+
+**Yazılım Pratikleri**
+- Test Driven Development (TDD)
+- Clean Architecture
+- SOLID Prensipleri
+
+### 📈 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ofkrc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+### 🎯 Öne Çıkan Projeler
+
+<div align="center">
+  <a href="https://github.com/ofkrc/proje1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofkrc&repo=proje1&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/ofkrc/proje2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofkrc&repo=proje2&theme=github_dark&hide_border=true" />
+  </a>
+</div>
+
+### 💼 Profesyonel Geçmiş
+
+- **Senior Backend Developer** @ [Şirket Adı] _(2022 - Günümüz)_
+  - Mikroservis mimarisi ile yüksek ölçeklenebilir sistemler geliştirme
+  - Performans optimizasyonu ve sistem güvenilirliği
+  
+- **Backend Developer** @ [Önceki Şirket] _(2020 - 2022)_
+  - RESTful API'ler geliştirme
+  - Veritabanı tasarımı ve optimizasyonu
+
+### 📚 Eğitim
+
+- **Bilgisayar Mühendisliği** - [Üniversite Adı] _(2016 - 2020)_
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ofkrc&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
