@@ -52,10 +52,10 @@ Yüksek ölçeklenebilir ve güvenilir backend sistemleri geliştirmekte uzmanla
 
 <div align="center">
   <a href="https://github.com/ofkrc/EmaOtomasyon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofkrc&repo=proje1&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofkrc&repo=EmaOtomasyon&theme=github_dark&hide_border=true" />
   </a>
   <a href="https://github.com/ofkrc/CoreApi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofkrc&repo=proje2&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ofkrc&repo=CoreApi&theme=github_dark&hide_border=true" />
   </a>
 </div>
 
