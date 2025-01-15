@@ -54,7 +54,7 @@ Yüksek ölçeklenebilir ve güvenilir backend sistemleri geliştirmekte uzmanla
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Proje 1</h3>
+        <h3 align="center">Core Api</h3>
         <div align="center">  
           <a href="https://github.com/ofkrc/CoreApi" target="_blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="CoreApi" width="100" />
@@ -64,21 +64,21 @@ Yüksek ölçeklenebilir ve güvenilir backend sistemleri geliştirmekte uzmanla
               <img src="https://img.shields.io/badge/Kod-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
           </p>
-          <p><strong>Java, Spring Boot, PostgreSQL</strong> - Proje açıklaması buraya gelecek</p>
+          <p><strong>C#, RESTful API, SQL</strong> - Başlangıç core bir api projesidir</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Proje 2</h3>
+        <h3 align="center">EmaOtomasyon</h3>
         <div align="center">
-          <a href="https://github.com/ofkrc/proje-adi-2" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Proje 2" width="100" />
+          <a href="https://github.com/ofkrc/EmaOtomasyon" target="_blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="EmaOtomasyon" width="100" />
           </a>
           <p>
             <a href="https://github.com/ofkrc/proje-adi-2" target="_blank">
               <img src="https://img.shields.io/badge/Kod-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
           </p>
-          <p><strong>Spring Cloud, Docker, AWS</strong> - Proje açıklaması buraya gelecek</p>
+          <p><strong>C#, RESTful API, WEB</strong> - Otomasyon</p>
         </div>
       </td>
     </tr>
