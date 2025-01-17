@@ -14,10 +14,6 @@
 
 ---
 
-### 👨‍💻 Profesyonel Deneyim
-
-Yüksek ölçeklenebilir ve güvenilir backend sistemleri geliştirmekte uzmanlaşmış bir yazılım mühendisiyim. Mikroservis mimarileri, dağıtık sistemler ve yüksek performanslı uygulamalar konusunda geniş deneyime sahibim.
-
 ### 🛠️ Teknik Uzmanlık
 
 **Backend Geliştirme**
