@@ -54,7 +54,7 @@
 
 ### 📚 Eğitim
 
-- **Bilgisayar Mühendisliği** - [SDU] _(2016 - 2020)_
+- **Bilgisayar Mühendisliği** - [SDU] _(2019 - 2023)_
 
 ---
 
