@@ -1,63 +1,66 @@
 <div align="center">
-  <h1>Ömer Faruk KARACA</h1>
-  <h3>Software Engineer</h3>
+<img src="https://placehold.co/150x150/0077B5/FFFFFF?text=OFK" alt="Profile Picture Placeholder" style="border-radius:50%; margin-bottom: 20px;" />
+<h1>👋 Merhaba! Ben Ömer Faruk KARACA</h1>
+<h3>Software Engineer</h3>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ofkrc" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ofkrc@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+
+
 </div>
 
----
+✨ Hakkımda
+Yazılım mühendisliği alanında tutkulu ve deneyimli bir profesyonelim. Backend geliştirme, mikroservis mimarileri ve veritabanı yönetimi konularında uzmanlaşmış olup, ölçeklenebilir ve sürdürülebilir yazılım çözümleri geliştirmeye odaklanıyorum. Sürekli öğrenmeye ve yeni teknolojileri keşfetmeye açık biriyim.
 
-### 🛠️ Teknik Uzmanlık
+🛠️ Teknik Uzmanlık Alanlarım
+⚙️ Backend Geliştirme
+Diller: C# | Node.js | Go
 
-**Backend Geliştirme**
-- C# | Node.js | Go
-- RESTful API Tasarımı
-- Mikroservis Mimarisi
+Mimariler: RESTful API Tasarımı, Mikroservis Mimarisi
 
-**Veritabanları**
-- PostgreSQL
-- MongoDB
-- Redis
-- RabbitMQ
-- Sql Server
+Çerçeveler: ASP.NET Core (C#), Express.js (Node.js)
 
-**DevOps & Cloud**
-- Docker | Kubernetes
-- AWS Cloud Services
+🗄️ Veritabanları & Mesaj Kuyrukları
+İlişkisel: PostgreSQL, SQL Server
 
-**Yazılım Pratikleri**
-- Test Driven Development (TDD)
-- Clean Architecture
-- SOLID Prensipleri
-- MVC
+NoSQL: MongoDB, Redis
 
-### 📈 GitHub İstatistikleri
+Mesaj Kuyrukları: RabbitMQ
 
+☁️ DevOps & Bulut
+Konteynerizasyon: Docker, Kubernetes
+
+Bulut Platformları: AWS Cloud Services
+
+💡 Yazılım Pratikleri
+Test Driven Development (TDD)
+
+Clean Architecture
+
+SOLID Prensipleri
+
+Model-View-Controller (MVC)
+
+🚀 GitHub İstatistiklerim
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofkrc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ofkrc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ofkrc&theme=github_dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
+💼 Profesyonel Geçmişim
+Software Engineer @ Metro İstanbul (2023 - Günümüz)
 
+İstanbul'un ulaşım altyapısına katkıda bulunan yazılım çözümleri geliştirme.
 
-### 💼 Profesyonel Geçmiş
+Software Engineer @ İdea Teknoloji Çözümleri (2021 - 2023)
 
-- **Software Engineer** @ [Metro İstanbul] _(2023 - Günümüz)_
-  
-- **Software Engineer** @ [İdea Teknoloji Çözümleri] _(2021 - 2023)_
+Çeşitli sektörler için yenilikçi teknoloji çözümleri üzerinde çalışma.
 
-### 📚 Eğitim
+📚 Eğitim Hayatım
+Bilgisayar Mühendisliği - Süleyman Demirel Üniversitesi (SDU) (2019 - 2023)
 
-- **Bilgisayar Mühendisliği** - [SDU] _(2019 - 2023)_
-
----
+Yazılım geliştirme ve bilgisayar bilimleri temelleri üzerine kapsamlı eğitim.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ofkrc&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ofkrc&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
