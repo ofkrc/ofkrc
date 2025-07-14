@@ -19,7 +19,7 @@
 
 ✨ Hakkımda
 
-Yazılım mühendisliği alanında tutkulu ve deneyimli bir profesyonelim. Özellikle backend geliştirme, mikroservis mimarileri ve veritabanı yönetimi konularında uzmanlaşmış olup, ölçeklenebilir ve sürdürülebilir yazılım çözümleri geliştirmeye odaklanıyorum. Sürekli öğrenmeye, yeni teknolojileri keşfetmeye ve karmaşık problemleri çözmeye açık biriyim. Projelerimde temiz kod, test odaklı geliştirme ve mimari prensiplere büyük önem veririm.
+Özellikle backend geliştirme, mikroservis mimarileri ve veritabanı yönetimi konularında uzmanlaşmış olup, ölçeklenebilir ve sürdürülebilir yazılım çözümleri geliştirmeye odaklanıyorum. Sürekli öğrenmeye, yeni teknolojileri keşfetmeye ve karmaşık problemleri çözmeye açık biriyim. Projelerimde temiz kod, test odaklı geliştirme ve mimari prensiplere büyük önem veririm.
 
 🛠️ Teknik Uzmanlık Alanlarım
 
@@ -73,14 +73,17 @@ Software Engineer @ Metro İstanbul (2023 - Günümüz)
 
 İstanbul'un ulaşım altyapısına katkıda bulunan, yüksek performanslı ve güvenilir yazılım çözümleri geliştirme ve bakımını yapma.
 
+
 Software Engineer @ İdea Teknoloji Çözümleri (2021 - 2023)
 
 Çeşitli sektörler (finans, e-ticaret vb.) için yenilikçi teknoloji çözümleri üzerinde çalışma, backend servislerinin tasarımı ve geliştirilmesi.
 
+
+
 📚 Eğitim Hayatım
+
 Bilgisayar Mühendisliği - Süleyman Demirel Üniversitesi (SDU) (2019 - 2023)
 
-Yazılım geliştirme, algoritma tasarımı, veri yapıları ve bilgisayar bilimleri temelleri üzerine kapsamlı eğitim.
 
 <div align="center" style="margin-top: 30px;">
 <img src="https://komarev.com/ghpvc/?username=ofkrc&color=blue&style=flat-square&label=Profile+Views" alt="[Profile Views]" />
