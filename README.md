@@ -18,6 +18,7 @@
 </div>
 
 ✨ Hakkımda
+
 Yazılım mühendisliği alanında tutkulu ve deneyimli bir profesyonelim. Özellikle backend geliştirme, mikroservis mimarileri ve veritabanı yönetimi konularında uzmanlaşmış olup, ölçeklenebilir ve sürdürülebilir yazılım çözümleri geliştirmeye odaklanıyorum. Sürekli öğrenmeye, yeni teknolojileri keşfetmeye ve karmaşık problemleri çözmeye açık biriyim. Projelerimde temiz kod, test odaklı geliştirme ve mimari prensiplere büyük önem veririm.
 
 🛠️ Teknik Uzmanlık Alanlarım
