@@ -22,8 +22,10 @@
 Yazılım mühendisliği alanında tutkulu ve deneyimli bir profesyonelim. Özellikle backend geliştirme, mikroservis mimarileri ve veritabanı yönetimi konularında uzmanlaşmış olup, ölçeklenebilir ve sürdürülebilir yazılım çözümleri geliştirmeye odaklanıyorum. Sürekli öğrenmeye, yeni teknolojileri keşfetmeye ve karmaşık problemleri çözmeye açık biriyim. Projelerimde temiz kod, test odaklı geliştirme ve mimari prensiplere büyük önem veririm.
 
 🛠️ Teknik Uzmanlık Alanlarım
+
 <div align="center">
 <h4>🚀 Diller & Çerçeveler</h4>
+  
 <p>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="[C# Badge]" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="[Node.js Badge]" />
@@ -33,6 +35,7 @@ Yazılım mühendisliği alanında tutkulu ve deneyimli bir profesyonelim. Özel
 </p>
 
 <h4>🗄️ Veritabanları & Mesaj Kuyrukları</h4>
+
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="[PostgreSQL Badge]" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="[MongoDB Badge]" />
@@ -42,6 +45,7 @@ Yazılım mühendisliği alanında tutkulu ve deneyimli bir profesyonelim. Özel
 </p>
 
 <h4>☁️ DevOps & Bulut</h4>
+
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="[Docker Badge]" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="[Kubernetes Badge]" />
@@ -49,12 +53,14 @@ Yazılım mühendisliği alanında tutkulu ve deneyimli bir profesyonelim. Özel
 </p>
 
 <h4>💡 Yazılım Pratikleri & Mimariler</h4>
+
 <p>
 Test Driven Development (TDD) | Clean Architecture | SOLID Prensipleri | Mikroservis Mimarisi | RESTful API Tasarımı | MVC
 </p>
 </div>
 
 🚀 GitHub İstatistiklerim
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ofkrc&show_icons=true&theme=github_dark&hide_border=true&count_private=true&line_height=25" alt="[GitHub Stats]" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofkrc&theme=github_dark&hide_border=true&line_height=25" alt="[GitHub Streak]" />
@@ -62,6 +68,7 @@ Test Driven Development (TDD) | Clean Architecture | SOLID Prensipleri | Mikrose
 </div>
 
 💼 Profesyonel Geçmişim
+
 Software Engineer @ Metro İstanbul (2023 - Günümüz)
 
 İstanbul'un ulaşım altyapısına katkıda bulunan, yüksek performanslı ve güvenilir yazılım çözümleri geliştirme ve bakımını yapma.
