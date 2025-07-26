@@ -1,90 +1,164 @@
-<div align="center">
-<img src="https://placehold.co/150x150/0077B5/FFFFFF?text=OFK" alt="" style="border-radius:50%; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-<h1>👋 Merhaba! Ben Ömer Faruk KARACA</h1>
-<h3>Software Engineer | Backend Developer</h3>
-<p>Yazılım dünyasında yeni teknolojileri keşfetmeye ve değer katmaya tutkuyla bağlıyım.</p>
-</div>
-
-<div align="center" style="margin-top: 25px; margin-bottom: 25px;">
-<a href="https://www.linkedin.com/in/ofkrc" target="_blank" style="text-decoration: none; margin: 0 10px;">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="[LinkedIn Badge]" />
-</a>
-<a href="mailto:ofkrc@outlook.com" style="text-decoration: none; margin: 0 10px;">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="[Gmail Badge]" />
-</a>
-<a href="https://github.com/ofkrc" target="_blank" style="text-decoration: none; margin: 0 10px;">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="[GitHub Badge]" />
-</a>
-</div>
-
-✨ Hakkımda
-
-Özellikle backend geliştirme, mikroservis mimarileri ve veritabanı yönetimi konularında uzmanlaşmış olup, ölçeklenebilir ve sürdürülebilir yazılım çözümleri geliştirmeye odaklanıyorum. Sürekli öğrenmeye, yeni teknolojileri keşfetmeye ve karmaşık problemleri çözmeye açık biriyim. Projelerimde temiz kod, test odaklı geliştirme ve mimari prensiplere büyük önem veririm.
-
-🛠️ Teknik Uzmanlık Alanlarım
+# 👨‍💻 Ömer Faruk KARACA
 
 <div align="center">
-<h4>🚀 Diller & Çerçeveler</h4>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Backend+Developer;Software+Engineer;Mikroservis+Uzman%C4%B1" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding Animation">
+</div>
+
+---
+
+## 🚀 **Hakkımda**
+
+```typescript
+const omerFarukKaraca = {
+    title: "Software Engineer",
+    location: "İstanbul, Türkiye 🇹🇷",
+    company: "Metro İstanbul",
+    experience: "3+ years",
+    focus: ["Backend Development", "Microservices", "Clean Architecture"],
+    currentlyLearning: ["Go", "Kubernetes", "Cloud Native Technologies"],
+    askMeAbout: ["C#", "Node.js", "PostgreSQL", "Microservices", "TDD"],
+    funFact: "Karmaşık problemleri çözmeyi ve temiz kod yazmayı seviyorum! 🎯"
+};
+```
+
+---
+
+## 🛠️ **Teknoloji Stack'im**
+
+<div align="center">
+
+### **💻 Programlama Dilleri**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,nodejs,go,javascript,typescript" />
+</p>
+
+### **🚀 Framework & Kütüphaneler**
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,express,fastapi" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### **🗄️ Veritabanları**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</p>
+
+### **☁️ DevOps & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+### **🔧 Araçlar & IDE**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,nginx" />
+</p>
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofkrc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofkrc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ofkrc&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ofkrc&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🏆 **GitHub Ödüllerim**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ofkrc&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💼 **Profesyonel Deneyim**
+
+<div align="center">
   
-<p>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="[C# Badge]" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="[Node.js Badge]" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="[Go Badge]" />
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="[ASP.NET Core Badge]" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="[Express.js Badge]" />
-</p>
+| 🏢 **Şirket** | 👨‍💼 **Pozisyon** | 📅 **Süre** | 🛠️ **Teknolojiler** |
+|:---:|:---:|:---:|:---:|
+| **Metro İstanbul** | Software Engineer | 2023 - Günümüz | C#, .NET Core, PostgreSQL, Docker |
+| **İdea Teknoloji** | Software Engineer | 2021 - 2023 | Node.js, MongoDB, Redis, AWS |
 
-<h4>🗄️ Veritabanları & Mesaj Kuyrukları</h4>
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="[PostgreSQL Badge]" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="[MongoDB Badge]" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="[Redis Badge]" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="[RabbitMQ Badge]" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="[SQL Server Badge]" />
-</p>
-
-<h4>☁️ DevOps & Bulut</h4>
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="[Docker Badge]" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="[Kubernetes Badge]" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="[AWS Badge]" />
-</p>
-
-<h4>💡 Yazılım Pratikleri & Mimariler</h4>
-
-<p>
-Test Driven Development (TDD) | Clean Architecture | SOLID Prensipleri | Mikroservis Mimarisi | RESTful API Tasarımı | MVC
-</p>
 </div>
 
-🚀 GitHub İstatistiklerim
+---
+
+## 🎯 **Uzmanlaştığım Alanlar**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ofkrc&show_icons=true&theme=github_dark&hide_border=true&count_private=true&line_height=25" alt="[GitHub Stats]" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ofkrc&theme=github_dark&hide_border=true&line_height=25" alt="[GitHub Streak]" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dofkrc%26layout%3Dcompact%26theme%3Dgithub_dark%26hide_border%3Dtrue%26langs_count%3D6" alt="[Top Languages]" />
+
+```mermaid
+mindmap
+  root((Software Engineering))
+    Backend Development
+      Microservices
+      API Design
+      Database Design
+    Architecture
+      Clean Architecture
+      SOLID Principles
+      Design Patterns
+    DevOps
+      Docker
+      Kubernetes
+      CI/CD
+    Quality
+      TDD
+      Unit Testing
+      Code Review
+```
+
 </div>
 
-💼 Profesyonel Geçmişim
 
-Software Engineer @ Metro İstanbul (2023 - Günümüz)
+---
 
-İstanbul'un ulaşım altyapısına katkıda bulunan, yüksek performanslı ve güvenilir yazılım çözümleri geliştirme ve bakımını yapma.
+## 🌐 **Benimle İletişime Geçin**
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/ofkrc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ofkrc@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+  </a>
+  <a href="https://github.com/ofkrc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
+  </a>
+</div>
 
-Software Engineer @ İdea Teknoloji Çözümleri (2021 - 2023)
+---
 
-Çeşitli sektörler (finans, e-ticaret vb.) için yenilikçi teknoloji çözümleri üzerinde çalışma, backend servislerinin tasarımı ve geliştirilmesi.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ofkrc&color=00D9FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ofkrc?color=00D9FF&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+</div>
 
-
-📚 Eğitim Hayatım
-
-Bilgisayar Mühendisliği - Süleyman Demirel Üniversitesi (SDU) (2019 - 2023)
-
-
-<div align="center" style="margin-top: 30px;">
-<img src="https://komarev.com/ghpvc/?username=ofkrc&color=blue&style=flat-square&label=Profile+Views" alt="[Profile Views]" />
+<div align="center">
+  <h3>💫 "Kod yazmak sanat, çözmek bilim!" 💫</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100">
 </div>
