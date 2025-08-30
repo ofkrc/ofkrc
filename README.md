@@ -17,7 +17,7 @@ const omerFarukKaraca = {
     title: "Software Engineer",
     location: "İstanbul, Türkiye 🇹🇷",
     company: "Metro İstanbul",
-    experience: "3+ years",
+    experience: "4+ years",
     focus: ["Backend Development", "Microservices", "Clean Architecture"],
     currentlyLearning: ["Go", "Kubernetes", "Cloud Native Technologies"],
     askMeAbout: ["C#", "Node.js", "PostgreSQL", "Microservices", "TDD"],
