@@ -20,8 +20,7 @@ const omerFarukKaraca = {
     experience: "4+ years",
     focus: ["Backend Development", "Microservices", "Clean Architecture"],
     currentlyLearning: ["Go", "Kubernetes", "Cloud Native Technologies"],
-    askMeAbout: ["C#", "Node.js", "PostgreSQL", "Microservices", "TDD"],
-    funFact: "Karmaşık problemleri çözmeyi ve temiz kod yazmayı seviyorum! 🎯"
+    askMeAbout: ["C#", "Node.js", "PostgreSQL", "Microservices", "TDD"]
 };
 ```
 
